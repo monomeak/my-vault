@@ -206,7 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 470.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,7 +221,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a14b55f15e0ddbb",
+  "active": "e7d06e1dacf23904",
   "lastOpenFiles": [
     "Test Topic.md",
     "README.md",
