@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test Topic.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test Topic"
+              "title": "README"
             }
           }
         ],
@@ -206,7 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 470.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,7 +221,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7d06e1dacf23904",
+  "active": "8c891cc8f2624b4f",
   "lastOpenFiles": [
     "Test Topic.md",
     "README.md",
