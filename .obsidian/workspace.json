@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "api with Springboot.md",
+                "file": "acme-invoice-system/api/01-stage2-scaffold-overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "api with Springboot"
+              "title": "01-stage2-scaffold-overview"
             }
           }
         ],
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214.5
+    "width": 318.5
   },
   "right": {
     "id": "a4266ed151876bdc",
@@ -194,7 +194,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 222.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,8 +212,15 @@
   },
   "active": "bcc18726cc1207ae",
   "lastOpenFiles": [
+    "acme-invoice-system/api/00-spring-boot-from-scratch-beginner-guide.md",
+    "acme-invoice-system/api/01-stage2-scaffold-overview.md",
+    "acme-invoice-system/api/05-flyway-deep-dive.md",
+    "acme-invoice-system/api/04-jpa-entities-and-relationships.md",
+    "acme-invoice-system/api/03-why-flyway-sql-instead-of-jpa-entities.md",
+    "acme-invoice-system/api/02-running-the-backend-locally.md",
     "acme-invoice-system/About the project.md",
-    "api with Springboot.md",
+    "acme-invoice-system/api with Springboot.md",
+    "acme-invoice-system/api",
     "Automate Test Question during Defense/New Feature is Assigned to QA.md",
     "Excalidraw/Drawing 2026-07-08 11.44.10.excalidraw.md",
     "Jenkins/expose with ngrok secure tunel.md",
@@ -239,15 +247,8 @@
     "Untitled/desktop.ini",
     "public",
     "public/Pasted image 20260708113643.png",
-    "Automate Test/Untitled.md",
-    "Automate Test/Defense strong question.md",
-    "Do thing with the right way..md",
-    "Get started.md",
-    "2026-07-08.md",
     "Untitled 2.base",
     "Automate Test Question during Defense",
-    "Welcome.md",
-    "Untitled.base",
-    "Untitled 1.base"
+    "Untitled.base"
   ]
 }
