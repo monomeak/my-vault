@@ -51,14 +51,14 @@
             "id": "3d082af95b4aa3f0",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Jenkins/expose with ngrok secure tunel.md",
-                "bFile": "Jenkins/expose with ngrok secure tunel.md",
-                "aRef": ""
+                "file": "Jenkins/expose with ngrok secure tunel.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: expose with ngrok secure tunel  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "expose with ngrok secure tunel"
             }
           }
         ],
