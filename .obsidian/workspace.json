@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "acme-invoice-system/api/01-stage2-scaffold-overview.md",
+                "file": "acme-invoice-system/api/05-flyway-deep-dive.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-stage2-scaffold-overview"
+              "title": "05-flyway-deep-dive"
             }
           }
         ],
@@ -212,12 +212,12 @@
   },
   "active": "bcc18726cc1207ae",
   "lastOpenFiles": [
-    "acme-invoice-system/api/00-spring-boot-from-scratch-beginner-guide.md",
-    "acme-invoice-system/api/01-stage2-scaffold-overview.md",
-    "acme-invoice-system/api/05-flyway-deep-dive.md",
     "acme-invoice-system/api/04-jpa-entities-and-relationships.md",
     "acme-invoice-system/api/03-why-flyway-sql-instead-of-jpa-entities.md",
     "acme-invoice-system/api/02-running-the-backend-locally.md",
+    "acme-invoice-system/api/01-stage2-scaffold-overview.md",
+    "acme-invoice-system/api/00-spring-boot-from-scratch-beginner-guide.md",
+    "acme-invoice-system/api/05-flyway-deep-dive.md",
     "acme-invoice-system/About the project.md",
     "acme-invoice-system/api with Springboot.md",
     "acme-invoice-system/api",
