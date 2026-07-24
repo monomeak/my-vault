@@ -46,9 +46,23 @@
               "icon": "lucide-file",
               "title": "React Query"
             }
+          },
+          {
+            "id": "3d082af95b4aa3f0",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Jenkins/expose with ngrok secure tunel.md",
+                "bFile": "Jenkins/expose with ngrok secure tunel.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: expose with ngrok secure tunel  (Working Tree)"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -105,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 227.5,
+    "collapsed": true
   },
   "right": {
     "id": "a4266ed151876bdc",
@@ -221,8 +236,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a14b55f15e0ddbb",
+  "active": "3d082af95b4aa3f0",
   "lastOpenFiles": [
+    "Jenkins/expose with ngrok secure tunel.md",
+    "Frontend 2026/React Query.md",
+    "Jenkins",
     "Frontend 2026/Auth feature.md",
     "README.md",
     "Test Topic.md",
@@ -233,7 +251,6 @@
     "Frontend 2026/Feature-based architecture.md",
     "Frontend 2026/Next.js.md",
     "Frontend 2026/Dashboard feature.md",
-    "Frontend 2026/React Query.md",
     "Frontend 2026/react-query.md",
     "Frontend 2026/Profile feature.md",
     "Understand about why React Query Exist.md",
